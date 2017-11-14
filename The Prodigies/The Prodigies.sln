@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Prodigies", "The Prodigies.csproj", "{3813B60E-4BF6-937C-FFE1-226BFB68452F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Prodigies.Editor", "The Prodigies.Editor.csproj", "{CF0DC788-047E-258A-5154-E330955BCD61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3813B60E-4BF6-937C-FFE1-226BFB68452F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3813B60E-4BF6-937C-FFE1-226BFB68452F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3813B60E-4BF6-937C-FFE1-226BFB68452F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3813B60E-4BF6-937C-FFE1-226BFB68452F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0DC788-047E-258A-5154-E330955BCD61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0DC788-047E-258A-5154-E330955BCD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0DC788-047E-258A-5154-E330955BCD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0DC788-047E-258A-5154-E330955BCD61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
